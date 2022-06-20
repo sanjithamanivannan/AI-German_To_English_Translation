@@ -1,0 +1,2 @@
+For this project, the data is a text file (.txt) of English-German sentence pairs. The actual data contains over 150,000 sentence-pairs. However, only the first 50,000 sentence pairs will be used to reduce the training time of the model.
+
